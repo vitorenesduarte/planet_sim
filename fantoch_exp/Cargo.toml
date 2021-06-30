@@ -19,7 +19,7 @@ color-eyre = "0.5.10"
 indicatif = "0.15.0"
 flate2 = "1.0.19"
 futures = { version = "0.3.8", default-features = false, features = [], optional = true }
-rusoto_core = { version = "0.46.0", optional = true }
+rusoto_core = { version = "0.47.0", optional = true }
 rusoto_credential = { version = "0.46.0", optional = true }
 rusoto_ec2 = { version = "0.46.0", optional = true }
 serde = { version = "1.0.118", features = ["derive"] }
